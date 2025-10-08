@@ -6,6 +6,7 @@ shell-snapshots/
 debug/
 statsig/
 todos/
+projects/
 
 # Keep configuration files
 !CLAUDE.md
