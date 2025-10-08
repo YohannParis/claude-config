@@ -7,6 +7,7 @@ debug/
 statsig/
 todos/
 projects/
+ide/
 
 # Keep configuration files
 !CLAUDE.md
