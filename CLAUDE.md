@@ -1,0 +1,5 @@
+- Never use Emojis
+- **ALWAYS read project CLAUDE.md and AGENTS.md files at the start of any coding session**
+- Follow project-specific guidelines over general defaults
+- Do not use yarn dev ever
+- Please run the tests once you edit them

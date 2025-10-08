@@ -1,0 +1,14 @@
+# Exclude sensitive and local files
+history.jsonl
+settings.local.json
+file-history/
+shell-snapshots/
+debug/
+statsig/
+todos/
+
+# Keep configuration files
+!CLAUDE.md
+!settings.json
+!agents/
+!plugins/
